@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a passionate frontend developer from India with a strong background in web and mobile application development. Here are some key highlights about me:
+I'm a passionate software developer from India with a strong background in web and mobile application development. Here are some key highlights about me:
 
 - 🔭 I'm currently studying Computer Science.
 - 👯 I'm eager to collaborate on exciting AI projects.
