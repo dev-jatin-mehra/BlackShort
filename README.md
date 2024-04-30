@@ -1,4 +1,5 @@
-![delete](https://gist.github.com/assets/149806613/58ef902d-01c3-41f5-8175-9d4f52ef498a)
+[![delete](https://imgur.com/LS5nmYu.jpg)]
+
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">Software Engineer | MERN Developer from India</h3>
 
