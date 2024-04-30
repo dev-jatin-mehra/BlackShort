@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/LS5nmYu.jpg" width="800"></p>
+<p align="center"><img src="https://imgur.com/LS5nmYu.jpg" width="800" height="200"></p>
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">Software Engineer | MERN Developer from India</h3>
 
