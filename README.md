@@ -19,7 +19,6 @@ I'm a passionate software developer from India with a strong background in web a
 Let's connect and collaborate on interesting projects! You can find me on various platforms:
 
 <a href="https://x.com/Priyanshu_K_O?t=zJbuegecqNAalpPsGY_1yw&s=09" target="_blank"><img src="https://img.shields.io/twitter/follow/Priyanshu_K_O?logo=twitter&style=for-the-badge" alt="Follow me on Twitter"></a>
-<a href="https://www.linkedin.com/in/priyanshu-kumar7374" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect on LinkedIn"></a>
 <a href="https://github.com/BlackShort" target="_blank"><img src="https://img.shields.io/github/followers/blackshort?label=Follow%20me%20on%20GitHub&style=social" alt="Follow me on GitHub"></a>
 
 ## Languages and Tools
