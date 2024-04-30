@@ -1,4 +1,4 @@
-[![delete](https://imgur.com/LS5nmYu.jpg)]
+![delete](https://imgur.com/LS5nmYu.jpg)
 
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">Software Engineer | MERN Developer from India</h3>
