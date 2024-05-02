@@ -6,13 +6,13 @@
 
 <h3 align="left">✨ About Me:</h3>
 
-🔭 I’m currently working on **TrustingBrains**<br>
-🌱 I’m currently learning **System Design**<br>
-👯 I’m looking to collaborate on **DevOps**<br>
-💬 Ask me about **React.js , Node.js , MongoDB**<br>
-📝 I regularly write articles on [https://knighthings.netlify.app](https://knighthings.netlify.app)<br>
-📫 How to reach me **priyanshuk.7374@gmail.com**<br>
-👨‍💻 All of my projects are available at [https://priyanshukumar.netlify.app](https://priyanshukumar.netlify.app)<hr>
+- 🔭 I’m currently working on **TrustingBrains**<br>
+- 🌱 I’m currently learning **System Design**<br>
+- 👯 I’m looking to collaborate on **DevOps**<br>
+- 💬 Ask me about **React.js , Node.js , MongoDB**<br>
+- 📝 I regularly write articles on [https://knighthings.netlify.app](https://knighthings.netlify.app)<br>
+- 📫 How to reach me **priyanshuk.7374@gmail.com**<br>
+- 👨‍💻 All of my projects are available at [https://priyanshukumar.netlify.app](https://priyanshukumar.netlify.app)<hr>
 
 <h3 align="left">🫂 Connect with me:</h3>
 
